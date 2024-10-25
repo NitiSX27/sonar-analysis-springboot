@@ -10,6 +10,7 @@
   <version>0.7.2-SNAPSHOT</version>
 </plugin>
 <--plugin-->
+<--plugin-->
 <dependency>
    <groupId>org.codehaus.sonar.plugins</groupId>
    <artifactId>sonar-jacoco-plugin</artifactId>
