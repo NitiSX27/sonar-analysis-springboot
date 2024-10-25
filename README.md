@@ -9,7 +9,7 @@
   <artifactId>jacoco-maven-plugin</artifactId>
   <version>0.7.2-SNAPSHOT</version>
 </plugin>
-
+<--plugin-->
 <dependency>
    <groupId>org.codehaus.sonar.plugins</groupId>
    <artifactId>sonar-jacoco-plugin</artifactId>
